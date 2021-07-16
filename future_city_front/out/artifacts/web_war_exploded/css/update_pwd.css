@@ -1,0 +1,6 @@
+@import url("forget_pwd.css");
+
+input + span{
+    font-size: 15px;
+    font-weight: 600;
+}
